@@ -1,0 +1,6 @@
+{
+  "name": "Portal Pengawas Sekolah TK/SD",
+  "description": "Portal resmi Pengawas Sekolah TK/SD untuk informasi pendampingan, dokumentasi, sekolah binaan, direktori pendidik, dan pengembangan mutu satuan pendidikan terintegrasi Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
